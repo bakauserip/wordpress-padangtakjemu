@@ -1,0 +1,954 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Travelvista\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-17 07:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.1.10\n"
+"X-Domain: travelvista"
+
+#: inc/admin/theme-info.php:297
+msgid ""
+"\"Fearless Setup - Our Dedicated Team will have your website up in minutes"
+msgstr ""
+
+#: patterns/trip-list.php:79
+msgid "$ 200"
+msgstr ""
+
+#: patterns/trip-list.php:123
+msgid "$ 400"
+msgstr ""
+
+#: patterns/trip-list.php:167
+msgid "$ 500"
+msgstr ""
+
+#: inc/admin/theme-info.php:52
+msgid "( Limited blocks available )"
+msgstr ""
+
+#: patterns/features.php:19
+msgid "1000+"
+msgstr ""
+
+#: inc/admin/theme-info.php:95
+msgid "24/7 premium support"
+msgstr ""
+
+#: patterns/top-destinations.php:47
+msgid "30 Tours"
+msgstr ""
+
+#: patterns/features.php:47
+msgid "30+"
+msgstr ""
+
+#: patterns/trip-list.php:93 patterns/trip-list.php:137
+msgid "4 Days 4 nights"
+msgstr ""
+
+#: patterns/top-destinations.php:33
+msgid "40 Tours"
+msgstr ""
+
+#: patterns/404.php:13
+msgid "404"
+msgstr ""
+
+#: patterns/features.php:61
+msgid "45+"
+msgstr ""
+
+#: patterns/trip-list.php:141
+msgid "5"
+msgstr ""
+
+#: patterns/trip-list.php:49
+msgid "5 Days 4 nights"
+msgstr ""
+
+#: inc/admin/theme-info.php:106
+msgid "50+"
+msgstr ""
+
+#: patterns/features.php:33
+msgid "550+"
+msgstr ""
+
+#: patterns/top-destinations.php:61
+msgid "60 Tours"
+msgstr ""
+
+#: patterns/trip-list.php:53
+msgid "7"
+msgstr ""
+
+#: patterns/top-destinations.php:75
+msgid "70 Tours"
+msgstr ""
+
+#: patterns/about-us.php:26 patterns/footer.php:41 patterns/footer.php:89
+msgid "About Us"
+msgstr ""
+
+#: functions.php:118
+msgid "Admin Icon"
+msgstr ""
+
+#: inc/admin/theme-info.php:150
+msgid "Advanced Templates"
+msgstr ""
+
+#: patterns/faq.php:45 patterns/faq.php:57
+msgid ""
+"Aliquam eu nunc. Etiam iaculis nunc ac metus. Donec mi odio, faucibus at, "
+"scelerisque quis, convallis in, nisi. Praesent vestibulum dapibus nibh. "
+"Fusce commodo aliquam arcu."
+msgstr ""
+
+#: inc/admin/theme-info.php:249
+msgid "Animation"
+msgstr ""
+
+#: patterns/trip-list.php:60
+msgid "Annapurna Circuit Trek"
+msgstr ""
+
+#: patterns/404.php:26
+msgid "Back to Home"
+msgstr ""
+
+#: patterns/top-destinations.php:43
+msgid "Bangkock"
+msgstr ""
+
+#: patterns/trip-list.php:64
+msgid "Best Season: Summe"
+msgstr ""
+
+#: patterns/trip-list.php:152
+msgid "Best Season: Summer"
+msgstr ""
+
+#: patterns/trip-list.php:108
+msgid "Best Season: Winter"
+msgstr ""
+
+#: inc/admin/theme-info.php:141
+msgid "Better Customization Without Code"
+msgstr ""
+
+#: inc/admin/theme-info.php:104
+msgid "Block Patterns"
+msgstr ""
+
+#: patterns/call-to-action.php:14
+msgid "Call to Action"
+msgstr ""
+
+#: patterns/sidebar.php:81
+msgid "Categories"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Asset Four"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Eight"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Eleven"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Five"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Nine"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets One"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Seven"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Six"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Ten"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Three"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Twelve"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Assets Two"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Table Line"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Theme"
+msgstr ""
+
+#: theme.json:1 styles/midnight-teal.json:1 styles/mossy-green.json:1
+#: styles/royal-grape.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid "Conditions"
+msgstr ""
+
+#: patterns/banner.php:52 patterns/footer.php:49 patterns/footer.php:101
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Cookies Policy"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/popular-packages.php:113
+msgid "Desert Quest"
+msgstr ""
+
+#: patterns/top-destinations.php:14
+msgid "Destination"
+msgstr ""
+
+#: patterns/features.php:37
+msgid "Destinations Explored"
+msgstr ""
+
+#: patterns/faq.php:44 patterns/faq.php:56
+msgid "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+msgstr ""
+
+#: inc/admin/theme-info.php:189
+msgid "Drag and Drop functionality"
+msgstr ""
+
+#: patterns/top-destinations.php:57
+msgid "Dubai"
+msgstr ""
+
+#: inc/admin/theme-info.php:68
+msgid "Easy Setup"
+msgstr ""
+
+#: inc/admin/theme-info.php:239
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: patterns/trip-list.php:18 patterns/trip-list.php:32
+msgid "Explore"
+msgstr ""
+
+#: patterns/banner.php:40
+msgid "EXPLORE DREAM DESTINATION"
+msgstr ""
+
+#: patterns/gallery.php:27
+msgid "Explore More"
+msgstr ""
+
+#: patterns/trip-list.php:23 patterns/trip-list.php:37
+msgid "Explore Your Trips"
+msgstr ""
+
+#: patterns/faq.php:16
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/theme-info.php:56
+msgid "Features"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: inc/admin/theme-info.php:51
+msgid "Free"
+msgstr ""
+
+#: inc/admin/theme-info.php:39
+msgid "Free Vs Pro"
+msgstr ""
+
+#: patterns/faq.php:21 patterns/faq.php:26
+msgid "Freequently Asked Questions."
+msgstr ""
+
+#: inc/admin/theme-info.php:180
+msgid "Frequent Updates"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Frequently asked"
+msgstr ""
+
+#: patterns/testimonials.php:36 patterns/testimonials.php:62
+msgid ""
+"From booking to the last day of the trip, everything was smooth. The "
+"itinerary was well-planned, and we got to see both the popular spots and "
+"hidden gems. Highly recommended!"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Funds"
+msgstr ""
+
+#: patterns/faq.php:38 patterns/faq.php:50 patterns/faq.php:62
+msgid "Fusce ac felis sit amet"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin/theme-info.php:304
+msgid "Get Premium Version"
+msgstr ""
+
+#: inc/admin/theme-info.php:300
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/theme-notice.php:5
+msgid "Get travelvista Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:169
+msgid "Global Style Variations"
+msgstr ""
+
+#: patterns/popular-packages.php:133
+msgid "Golden Adventure"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard beige to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard mint to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard pewter to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard rust to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard sage to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical hard sandstone to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft beige to w"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft mint to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft pewter to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft rust to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft sage to white"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical soft sandstone to white"
+msgstr ""
+
+#: inc/admin/theme-info.php:227
+msgid "Gutenberg block editor"
+msgstr ""
+
+#: patterns/features.php:23
+msgid "Happy Travelers"
+msgstr ""
+
+#: inc/admin/theme-info.php:97
+msgid "High-Priority Dedicated Support"
+msgstr ""
+
+#: patterns/footer.php:45
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://trendthemeswp.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://trendthemeswp.com/products/travelvista/"
+msgstr ""
+
+#: inc/admin/theme-info.php:269
+msgid "Icon Picker"
+msgstr ""
+
+#: inc/admin/theme-info.php:209
+msgid "Import components/ templates"
+msgstr ""
+
+#: patterns/testimonials.php:75
+msgid "India"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "Informations"
+msgstr ""
+
+#: patterns/404.php:21
+msgid ""
+"It looks like nothing was found at this location. Click button below to "
+"return to homepage."
+msgstr ""
+
+#: patterns/popular-packages.php:61
+msgid "Journery"
+msgstr ""
+
+#: patterns/popular-packages.php:18
+msgid "Journey"
+msgstr ""
+
+#: patterns/popular-packages.php:89
+msgid "Jungle Trek"
+msgstr ""
+
+#: patterns/post-list.php:18
+msgid "latest from our Blogs"
+msgstr ""
+
+#: patterns/banner.php:22 patterns/header.php:20
+msgid "Let's Talk"
+msgstr ""
+
+#: inc/admin/theme-info.php:122
+msgid "Lifetime Updates"
+msgstr ""
+
+#: inc/admin/theme-info.php:197 inc/admin/theme-info.php:206
+msgid "Limited"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Links"
+msgstr ""
+
+#: patterns/popular-packages.php:137
+msgid "Mountain Escape"
+msgstr ""
+
+#: inc/admin/theme-info.php:159
+msgid "Multiple Header/Footer Layouts"
+msgstr ""
+
+#: inc/admin/theme-info.php:131
+msgid "No coding required"
+msgstr ""
+
+#: inc/admin/theme-info.php:218
+msgid "One Click Demo Import"
+msgstr ""
+
+#: patterns/post-list.php:13
+msgid "Our Blogs"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "Page not found"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Pages"
+msgstr ""
+
+#: patterns/top-destinations.php:29
+msgid "Paris"
+msgstr ""
+
+#: patterns/404.php:2
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/about-us.php:2
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr ""
+
+#: patterns/banner.php:2
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/call-to-action.php:2
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/faq.php:2
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr ""
+
+#: patterns/features.php:2
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/gallery.php:2
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/page-banner.php:2
+msgctxt "Pattern title"
+msgid "Page Banner"
+msgstr ""
+
+#: patterns/popular-packages.php:2
+msgctxt "Pattern title"
+msgid "Popular Packages"
+msgstr ""
+
+#: patterns/post-list.php:2
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr ""
+
+#: patterns/sidebar.php:2
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/testimonials.php:2
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/top-destinations.php:2
+msgctxt "Pattern title"
+msgid "Top Destinations"
+msgstr ""
+
+#: patterns/trip-list.php:2
+msgctxt "Pattern title"
+msgid "Trip List"
+msgstr ""
+
+#: patterns/trip-search.php:2
+msgctxt "Pattern title"
+msgid "Trip Search"
+msgstr ""
+
+#: patterns/popular-packages.php:85
+msgid "Peaceful Heights"
+msgstr ""
+
+#: patterns/faq.php:39 patterns/faq.php:51 patterns/faq.php:63
+msgid ""
+"Phasellus tempus. Etiam feugiat lorem non metus. Donec venenatis vulputate "
+"lorem. Pellentesque auctor neque nec urna. Nunc nec neque."
+msgstr ""
+
+#: patterns/about-us.php:31
+msgid "Plan Your Perfect Trip With Our Travel Experts."
+msgstr ""
+
+#: patterns/popular-packages.php:23 patterns/popular-packages.php:66
+msgid "Popular Packages"
+msgstr ""
+
+#: inc/admin/theme-info.php:278
+msgid "Portfolio Pattern"
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/admin/theme-info.php:26
+msgid "Pro Live Demo"
+msgstr ""
+
+#: patterns/features.php:65
+msgid "Professional Team"
+msgstr ""
+
+#: inc/admin/theme-info.php:294
+msgid "Questions Welcome - We're here to help"
+msgstr ""
+
+#: patterns/testimonials.php:71
+msgid "Rajiv S"
+msgstr ""
+
+#: patterns/about-us.php:47
+msgid "Read More"
+msgstr ""
+
+#: patterns/call-to-action.php:19
+msgid "Ready for Your Next Adventure?"
+msgstr ""
+
+#: patterns/sidebar.php:29
+msgid "Recent post"
+msgstr ""
+
+#: inc/admin/theme-info.php:77
+msgid "Responsive Desgin"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Returns"
+msgstr ""
+
+#: patterns/top-destinations.php:71
+msgid "Rome"
+msgstr ""
+
+#: patterns/testimonials.php:45
+msgid "Sarah L"
+msgstr ""
+
+#: inc/admin/theme-info.php:259
+msgid "Scroll to Top Button"
+msgstr ""
+
+#: inc/admin/theme-info.php:113
+msgid "Secure transaction"
+msgstr ""
+
+#: patterns/gallery.php:15
+msgid "See the World Through Our Lens"
+msgstr ""
+
+#: inc/admin/theme-info.php:86
+msgid "SEO Friendly"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "Shipping Policy"
+msgstr ""
+
+#: styles/midnight-teal.json:1
+msgctxt "Style variation name"
+msgid "Midnight Teal"
+msgstr ""
+
+#: styles/mossy-green.json:1
+msgctxt "Style variation name"
+msgid "Mossy Green"
+msgstr ""
+
+#: styles/royal-grape.json:1
+msgctxt "Style variation name"
+msgid "Royal Grape"
+msgstr ""
+
+#: patterns/sidebar.php:61
+msgid "Tags"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid "Terms"
+msgstr ""
+
+#: patterns/testimonials.php:14
+msgid "Testimonials"
+msgstr ""
+
+#: inc/admin/theme-notice.php:6
+msgid "Theme Info"
+msgstr ""
+
+#: patterns/top-destinations.php:19
+msgid "Top Destinations"
+msgstr ""
+
+#. Name of the theme
+msgid "Travelvista"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "travelvista"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Travelvista  is a bold and captivating Full Site Editing (FSE) WordPress "
+"theme crafted specifically for travel agencies, tour operators, and "
+"adventure blogs. With a stunning visual layout and intuitive design, it lets "
+"you showcase destinations, itineraries, customer testimonials, and booking "
+"options—without writing a single line of code."
+msgstr ""
+
+#: inc/admin/theme-info.php:18
+msgid ""
+"Travelvista - A Multipurpose, browser & device-friendly Full Site Editing "
+"Theme for WordPress"
+msgstr ""
+
+#: inc/admin/theme-notice.php:2
+msgid "Travelvista Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:59
+msgid "travelvista Pro ( More Blocks & Settings available )"
+msgstr ""
+
+#: class/admin-info.php:24 class/admin-info.php:25
+msgid "travelvista Theme"
+msgstr ""
+
+#: patterns/banner.php:35
+msgid "Travelvista Welcomes You"
+msgstr ""
+
+#. Author of the theme
+msgid "Trendthemeswp"
+msgstr ""
+
+#: patterns/call-to-action.php:31
+msgid "Try It Now"
+msgstr ""
+
+#: inc/admin/theme-info.php:200
+msgid "Typography and color options"
+msgstr ""
+
+#: inc/admin/theme-info.php:202
+msgid "Unlimited"
+msgstr ""
+
+#: inc/admin/theme-notice.php:3
+msgid ""
+"Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated "
+"support, and theme installation with demo setup. Experience enhanced "
+"flexibility and receive dedicated support to effortlessly elevate your "
+"website to new heights of excellence."
+msgstr ""
+
+#: patterns/trip-list.php:104
+msgid "Upper Mustang Trip"
+msgstr ""
+
+#: patterns/testimonials.php:49
+msgid "USA"
+msgstr ""
+
+#: patterns/testimonials.php:24
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum"
+msgstr ""
+
+#: patterns/post-list.php:23
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum "
+msgstr ""
+
+#: patterns/about-us.php:40
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum ante ipsum"
+msgstr ""
+
+#: patterns/about-us.php:36 patterns/banner.php:45 patterns/faq.php:30
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum ante ipsum primis in faucibus orci luctus et"
+msgstr ""
+
+#: patterns/call-to-action.php:24 patterns/gallery.php:19
+#: patterns/popular-packages.php:71
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum ante ipsum primis in faucibus orci luctus et "
+"Vestibulum ante ipsum primis in faucibus orci luctus et"
+msgstr ""
+
+#: patterns/trip-list.php:74 patterns/trip-list.php:118
+#: patterns/trip-list.php:162
+msgid "View Details"
+msgstr ""
+
+#: patterns/testimonials.php:19
+msgid "What out Clients say"
+msgstr ""
+
+#: patterns/popular-packages.php:109
+msgid "Wild Trails"
+msgstr ""
+
+#: patterns/features.php:51
+msgid "Years of Experience"
+msgstr ""
+
+#: patterns/trip-list.php:68 patterns/trip-list.php:112
+#: patterns/trip-list.php:156
+msgid "★★★★★"
+msgstr ""
